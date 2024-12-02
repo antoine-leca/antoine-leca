@@ -1,3 +1,5 @@
+<img align="center" src="Bannière_RS.png">
+
 <h1 align="center">Bonjour 👋</h1>
 <h3 align="center">Aspirant Dev Web fullstack & Designer UX/UI</h3>
 
