@@ -7,9 +7,9 @@
 
 - 🔭 Je suis actuellement **Apprenant à La Plateforme**
 
-- 🌱 En ce moment j'apprends **Javascript, ReactJS, NodeJS, VueJS, AngularJS, PHP, Symfony, SQL, MySQL, PostgreSGL**
+- 🌱 En ce moment j'apprends **Javascript, PHP, SQL, MySQL**
 
-- 🤝 Je recherche **une alternance sur Marseille & alentours**
+- 🤝 Je recherche **une alternance sur Marseille & ses alentours**
 
 - 📫 Comment me contacter **antoine.leca@laplateforme.io**
 
