@@ -6,7 +6,7 @@
 
 - 🔭 Je suis actuellement en **CDPI L'Atelier - La Plateforme**
 
-- 🌱 J'apprends **React, Node, JS, TS, Laravel, SQL,**
+- 🌱 J'apprends **React, Node, JS, TS, Laravel, SQL**
 
 - 🤝 Je recherche **une alternance sur Marseille et ses alentours**
 
